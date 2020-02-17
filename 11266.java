@@ -29,6 +29,7 @@ public class Main {
             if(!isRoot && prev >= visitedOrder[here]) { // here가 루트가 아니라면 자식 노드들이 here를 거치지 않고 빠른 순서를 지나치면 단절점
                 isCut[here] = true;
             }
+            result = Math.min(result, prev); // prev 갱신 
         }
 
         if(isRoot) { // 루트일 경우는 자식이 2개 이상이면 무조건 단절점
