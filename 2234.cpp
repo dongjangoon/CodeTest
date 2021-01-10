@@ -20,7 +20,7 @@ int bfs(int i, int j, int roomCnt) {
         int x = q.front().first;
         int y = q.front().second;
         q.pop();
-
+        cnt++;
 
         for (int k = 0; k < 4; k++) {
             int nx = x+dx[k];
@@ -28,8 +28,7 @@ int bfs(int i, int j, int roomCnt) {
 
             if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
                 if (d[nx][ny] != 0) continue;
-                if (a[nx][ny] & 1 << k) continue;
-                cnt++;
+                if (a[x][y] & (1 << k)) continue;
                 q.push(make_pair(nx, ny));
                 d[nx][ny] = roomCnt;
             }
@@ -59,7 +58,7 @@ int main() {
     }
     cout << roomCnt << '\n';
     int ans = 0;
-    for (int i = 0; i <= roomCnt; i++) {
+    for (int i = 1; i <= roomCnt; i++) {
         if (ans < room[i]) {
             ans = room[i];
         }
@@ -74,7 +73,7 @@ int main() {
 
                 if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
                     if (d[nx][ny] == d[i][j]) continue; // 같은 방
-                    if (a[nx][ny] & 1 << k) {
+                    if (a[i][j] & (1<<k)) {
                         if (ans < room[d[i][j]] + room[d[nx][ny]]) {
                             ans = room[d[i][j]] + room[d[nx][ny]];
                         }
