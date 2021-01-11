@@ -37,8 +37,6 @@ int bfs(int i, int j, int roomCnt) {
     return cnt;
 }
 
-
-
 int main() {
     cin >> m >> n;
 
