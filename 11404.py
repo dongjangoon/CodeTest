@@ -1,6 +1,6 @@
 n = int(input())
 m = int(input())
-inf = 1000000
+inf = 100000000
 
 graph = [[inf] * (n + 1) for _ in range(n + 1)]
 
