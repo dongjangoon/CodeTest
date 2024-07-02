@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dcb2e58-21f0-412a-ac33-d3ed6480d447" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1213/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/1213.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1213/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/1769.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1769/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/4358.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4358/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/4659.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4659/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1543/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1543/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ifhO3y87ipOVM3uolrITVUKhfM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dcb2e58-21f0-412a-ac33-d3ed6480d447" name="Changes" comment="" />
+      <created>1719887504444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719887504444</updated>
+      <workItem from="1719887505555" duration="3849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
